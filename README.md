@@ -11,7 +11,7 @@ adding in new trails that weren't on previous maps during my walks throughout th
 All illustrative work was completed in Photoshop.
 
 ## Map
-![img.png](imgs/working/20_0830_Frick_Park_Map_labels_001.jpg)
+![img.png](imgs/working/20_0830_Frick_Park_Map_labels_001_sm.jpg)
 
 ## Next Steps
 - Scale text to a size appropriate for printing out maps
